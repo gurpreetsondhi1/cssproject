@@ -68,7 +68,7 @@
     border: 2px solid red; 
     width: 200px;
     border-radius: 15px;
-    box-shadow: 5px 10px #c7c5c5 ;
+    box-shadow: 5px 10px 7px #c7c5c5 ;
 }
 .c2d2{
     border: 2px solid red; 
@@ -118,7 +118,7 @@ a:link {
     position: fixed;
     left: 500px;
     top: 200px;
-    box-shadow: 5px 10px #c7c5c5 ;
+    box-shadow: 5px 10px 7px #c7c5c5 ;
 }
 .input{
     border: 2px solid red;
@@ -163,7 +163,7 @@ a:link {
     border-radius: 15px;
     margin-left: 33%;
     position: relative;
-    box-shadow: 5px 10px #c7c5c5 ;
+    box-shadow: 5px 10px 7px #c7c5c5 ;
 }
 .hr3{
     background-color: grey;
@@ -248,5 +248,5 @@ a:link {
     position: fixed;
     left: 550px;
     top: 300px;
-    box-shadow: 5px 10px #c7c5c5 ;
+    box-shadow: 5px 10px 7px #c7c5c5 ;
 }
